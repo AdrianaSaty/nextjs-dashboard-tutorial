@@ -38,3 +38,7 @@ Navigating Between Pages (Implemented using next/link component or custom routin
 ### Chapter 6
 
 Setting Up Your Database (Depends on your backend choice; code to connect and fetch data will reside in API routes or helper functions)
+
+### Chapter 7
+
+Fetching Data (Handled within API routes or data fetching components, depending on the data source)

@@ -17,3 +17,10 @@ CSS Styling (Implemented in styles folder and individual components)
 Optimizing Fonts and Images (Addressed through optimization techniques and potentially next/image component)
 
 - How to add custom fonts with next/font.
+- How to add images with next/image.
+- How fonts and images are optimized in Next.js.
+
+[Image Optimization Docs](https://nextjs.org/docs/app/building-your-application/optimizing/images)
+[Font Optimization Docs](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
+[Improving Web Performance with Images (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Performance/Multimedia)
+[Improving Web Performance with Images (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Performance/Multimedia)

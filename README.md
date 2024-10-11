@@ -28,3 +28,9 @@ Optimizing Fonts and Images (Addressed through optimization techniques and poten
 ### Chapter 4
 
 Creating Routes, Layouts and Pages (Structure defined in pages folder with layout components)
+
+### Chapter 5
+
+Navigating Between Pages (Implemented using next/link component or custom routing)
+
+[How Routing and Navigation Works](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#how-routing-and-navigation-works)

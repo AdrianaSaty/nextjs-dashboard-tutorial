@@ -34,3 +34,7 @@ Creating Routes, Layouts and Pages (Structure defined in pages folder with layou
 Navigating Between Pages (Implemented using next/link component or custom routing)
 
 [How Routing and Navigation Works](https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#how-routing-and-navigation-works)
+
+### Chapter 6
+
+Setting Up Your Database (Depends on your backend choice; code to connect and fetch data will reside in API routes or helper functions)

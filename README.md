@@ -24,3 +24,7 @@ Optimizing Fonts and Images (Addressed through optimization techniques and poten
 [Font Optimization Docs](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
 [Improving Web Performance with Images (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Performance/Multimedia)
 [Improving Web Performance with Images (MDN)](https://developer.mozilla.org/en-US/docs/Learn/Performance/Multimedia)
+
+### Chapter 4
+
+Creating Routes, Layouts and Pages (Structure defined in pages folder with layout components)

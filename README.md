@@ -49,3 +49,7 @@ Static and Dynamic Rendering (Demonstrated through Next.js's automatic rendering
 
 - Static rendering: data fetching and rendering happens on the server at build time (when you deploy) or when revalidating data.
 - Ddynamic rendering: content is rendered on the server for each user at request time (when the user visits the page).
+
+### Chapter 9
+
+Streaming is a data transfer technique that allows you to break down a route into smaller "chunks" and progressively stream them from the server to the client as they become ready.

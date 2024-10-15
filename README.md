@@ -42,3 +42,10 @@ Setting Up Your Database (Depends on your backend choice; code to connect and fe
 ### Chapter 7
 
 Fetching Data (Handled within API routes or data fetching components, depending on the data source)
+
+### Chapter 8
+
+Static and Dynamic Rendering (Demonstrated through Next.js's automatic rendering and data fetching capabilities)
+
+- Static rendering: data fetching and rendering happens on the server at build time (when you deploy) or when revalidating data.
+- Ddynamic rendering: content is rendered on the server for each user at request time (when the user visits the page).

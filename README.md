@@ -57,3 +57,7 @@ Streaming is a data transfer technique that allows you to break down a route int
 ### Chapter 10
 
 Partial Prerendering (Can be used to improve performance; code implementation will vary). It is a rendering model that allows you to combine the benefits of static and dynamic rendering in the same route.
+
+### Chapter 11
+
+Adding Search with debounce

@@ -53,3 +53,7 @@ Static and Dynamic Rendering (Demonstrated through Next.js's automatic rendering
 ### Chapter 9
 
 Streaming is a data transfer technique that allows you to break down a route into smaller "chunks" and progressively stream them from the server to the client as they become ready.
+
+### Chapter 10
+
+Partial Prerendering (Can be used to improve performance; code implementation will vary). It is a rendering model that allows you to combine the benefits of static and dynamic rendering in the same route.

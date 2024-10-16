@@ -77,3 +77,4 @@ Mutating Data (Data manipulation logic will be placed in API routes or within co
 Handling Errors
 
 - implements try catch
+- handling all errors with error.tsx

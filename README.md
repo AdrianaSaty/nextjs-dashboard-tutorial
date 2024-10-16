@@ -61,3 +61,7 @@ Partial Prerendering (Can be used to improve performance; code implementation wi
 ### Chapter 11
 
 Adding Search with debounce and pagination
+
+### Chapter 12
+
+Mutating Data (Data manipulation logic will be placed in API routes or within components using state management solutions)

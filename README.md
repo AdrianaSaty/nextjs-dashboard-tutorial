@@ -78,3 +78,4 @@ Handling Errors
 
 - implements try catch
 - handling all errors with error.tsx
+- handling more specific errors with notFound()

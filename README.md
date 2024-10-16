@@ -1,6 +1,7 @@
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This tutorial was made at 15.0.0-canary.56 next version.
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
@@ -79,3 +80,9 @@ Handling Errors
 - implements try catch
 - handling all errors with error.tsx
 - handling more specific errors with notFound()
+
+### Chapter 14
+
+Improving Accessibility
+
+- installs lint

@@ -87,3 +87,4 @@ Improving Accessibility
 
 - installs lint
 - fixes lint errors
+- implements adding aria labels (form errors)

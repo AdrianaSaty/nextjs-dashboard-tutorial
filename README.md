@@ -69,3 +69,4 @@ Mutating Data (Data manipulation logic will be placed in API routes or within co
 - create page and logic to add a new invoice
 - revalidatePath that allows to purge cached data on-demand for a specific path
 - redirect
+- create page and logic to edit an invoice and pass the id to this page

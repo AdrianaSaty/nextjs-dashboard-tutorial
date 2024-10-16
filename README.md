@@ -71,3 +71,9 @@ Mutating Data (Data manipulation logic will be placed in API routes or within co
 - redirect
 - creates page and logic to edit an invoice and pass the id to this page
 - creates logic to delete an invoice
+
+### Chapter 13
+
+Handling Errors
+
+- implements try catch

@@ -66,7 +66,8 @@ Adding Search with debounce and pagination
 
 Mutating Data (Data manipulation logic will be placed in API routes or within components using state management solutions)
 
-- create page and logic to add a new invoice
-- revalidatePath that allows to purge cached data on-demand for a specific path
+- creates page and logic to add a new invoice
+- revalidatePath: allows to purge cached data on-demand for a specific path
 - redirect
-- create page and logic to edit an invoice and pass the id to this page
+- creates page and logic to edit an invoice and pass the id to this page
+- creates logic to delete an invoice

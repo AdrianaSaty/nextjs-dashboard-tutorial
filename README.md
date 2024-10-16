@@ -86,3 +86,4 @@ Handling Errors
 Improving Accessibility
 
 - installs lint
+- fixes lint errors

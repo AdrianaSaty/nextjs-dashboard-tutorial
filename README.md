@@ -94,3 +94,5 @@ Improving Accessibility
 Adding Authentication
 
 - sets up NextAuth.js
+- updates login form to handle auth
+- adds logout functionality

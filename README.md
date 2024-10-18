@@ -88,3 +88,9 @@ Improving Accessibility
 - installs lint
 - fixes lint errors
 - implements adding aria labels (form errors)
+
+### Chapter 15
+
+Adding Authentication
+
+- sets up NextAuth.js

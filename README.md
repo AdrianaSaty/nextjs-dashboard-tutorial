@@ -1,9 +1,26 @@
-## Next.js App Router Course - Starter
+## Next.js Dashboard Course
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is the [Dashboard tutorial of the Next.js](https://nextjs.org/learn/dashboard-app).
 This tutorial was made at 15.0.0-canary.56 next version.
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+## Setup
+
+After you have cloned this repo, install the dependencies with:
+
+npm install
+
+Then you can then start the application running:
+
+npm run dev
+
+That's it. Just Access http://localhost:3000/dashboard in your browser.
+
+To login you can use:
+
+- email: user@nextmail.com
+- password: 123456
 
 ### Chapter 1
 
